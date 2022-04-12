@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipankar Kumar Singh</h1>
 <h3 align="center">A passionate Competitive programmer</h3>
 
-- 🌱 I’m currently learning **Advanced data store and algorithms**
+- 🌱 I’m currently learning **Advanced data Structure 🚀 and Algorithms ⭐ **
 
 - 📫 How to reach me **dipankarcode@gmail.com**
 
