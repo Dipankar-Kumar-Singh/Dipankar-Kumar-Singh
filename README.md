@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a competitive programmer 🦾,<br>I like to solve problems that eats outs my brain 😂🤯🧠.<br>I like Optimizing 🤖 my code <br>using my knowledge of Advance Data Structure and Algorithm <br>with some Grains of Mathematics 👨‍🔬.<br>I like Computer Science in General [ Raw Computer Science 🧑‍💻 ],<br>I love to read 📖 , watch 👀 and learn 😇 <br>about how tech works around the world 🌍.<br>I am mostly overwhelmed by how much I have Learn. <br>I am a person who is artistic and thus<br>I have a 🦩TASTE of CODE QUILITY 🪶 <br>and Design 🐬 in my Code and Products. 🦾<br>
+As a competitive programmer 🦾, I enjoy solving brain-teasing problems 😂🤯🧠 using advanced data structures, algorithms, and a sprinkle of mathematics 👨‍🔬 to optimize my code 🤖. I have a passion for computer science in its raw form 🧑‍💻 and enjoy immersing myself in learning about technology and its workings across the world 📖👀. Despite feeling overwhelmed by the amount I have to learn, I am continually driven to improve the quality 🪶 and design 🐬 of my code and products.
 
 
 ## 🌐 Socials:
